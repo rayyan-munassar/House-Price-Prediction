@@ -1,4 +1,5 @@
 # House Price Prediction
+![house price](https://github.com/rayyan-munassar/House-Price-Prediction/assets/96084318/16ae50ee-80a9-42af-8913-54f594a8ddee)
 
 This data science project is dedicated to predicting house prices using a dataset featuring diverse attributes related to residential properties. Through thorough analysis and modeling, the project aims to create an accurate predictive model for estimating the sale prices of houses.
 
